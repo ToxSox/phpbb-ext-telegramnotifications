@@ -127,6 +127,7 @@ class functions
 			'disable_web_page_preview' => 'true',
 			'parse_mode' => 'HTML',
 			'text' => $html,
+			'message_thread_id' => '2',
 		));
 	}
 
